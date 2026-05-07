@@ -8,7 +8,7 @@
       "description": "Contains all information about the tickets available in Singapore",
       "file": "f1/2026/singapore/singapore-tickets.csv",
       "format": "csv",
-      "url": "https://raw.githubusercontent.com/GrandToursTravel/gpgt-product-data/f1/2026/singapore/singapore-tickets.csv"
+      "url": "https://raw.githubusercontent.com/GrandToursTravel/gpgt-product-data/main/f1/2026/singapore/singapore-tickets.csv"
     },
     {
       "id": "singapore-hotels",
@@ -16,7 +16,7 @@
       "description": "Contains all information about the hotels available in Singapore",
       "file": "f1/2026/singapore/singapore-hotels.csv",
       "format": "csv",
-      "url": "https://raw.githubusercontent.com/GrandToursTravel/gpgt-product-data/f1/2026/singapore/singapore-hotels.csv"
+      "url": "https://raw.githubusercontent.com/GrandToursTravel/gpgt-product-data/main/f1/2026/singapore/singapore-hotels.csv"
     }
   ]
 }
