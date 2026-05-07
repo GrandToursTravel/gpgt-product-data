@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-05-07",
+  "datasets": [
+    {
+      "id": "singapore-tickets",
+      "name": "Singapore Tickets",
+      "description": "Contains all information about the tickets available in Singapore",
+      "file": "f1/2026/singapore/singapore-tickets.csv",
+      "format": "csv",
+      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/dataset1.csv"
+    },
+    {
+      "id": "singapore-hotels",
+      "name": "Singapore Hotels",
+      "description": "Contains all information about the hotels available in Singapore",
+      "file": "f1/2026/singapore/singapore-hotels.csv",
+      "format": "csv",
+      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/dataset2.json"
+    }
+  ]
+}
